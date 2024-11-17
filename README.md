@@ -1,1 +1,1 @@
-# UNCG-CSC-230
+# CSC-230 Elementary Data Structures and Algorithms
